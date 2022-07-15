@@ -7,7 +7,7 @@ import '@openzeppelin/contracts/access/Ownable.sol';
 import '@openzeppelin/contracts/utils/cryptography/MerkleProof.sol';
 import '@openzeppelin/contracts/security/ReentrancyGuard.sol';
 
-contract MiniMetisNFT is ERC721AQueryable, Ownable, ReentrancyGuard {
+contract MiniMeNFT is ERC721AQueryable, Ownable, ReentrancyGuard {
 
   using Strings for uint256;
 

@@ -22,8 +22,8 @@ const CollectionConfig: CollectionConfigInterface = {
   // The contract name can be updated using the following command:
   // yarn rename-contract NEW_CONTRACT_NAME
   // Please DO NOT change it manually!
-  contractName: "MiniMetisNFT",
-  tokenName: "MiniMetis NFT Token",
+  contractName: "MiniMeNFT",
+  tokenName: "MiniMe NFT Token",
   tokenSymbol: "MMT",
   hiddenMetadataUri: "ipfs://__CID__/hidden.json",
   maxSupply: 1000,
